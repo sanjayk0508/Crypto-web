@@ -1,5 +1,6 @@
 # Cryptocurrency Website
 A simple website that i use to learn about TailwindCSS and Static Assets management with vite.
+https://cryptocurrency-website.vercel.app/
 
 ## Preview
 ![Image](https://raw.githubusercontent.com/Krymancer/cryptocurrency-website/main/.github/screenshot.png)
